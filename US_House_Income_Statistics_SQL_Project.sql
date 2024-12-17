@@ -255,4 +255,3 @@ GROUP BY ui.State_Name, City
 ORDER BY ROUND(AVG(Mean),1) DESC;
 
 
-######### END ##########################

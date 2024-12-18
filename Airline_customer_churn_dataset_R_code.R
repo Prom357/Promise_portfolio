@@ -406,9 +406,6 @@ confusionMatrix(knn_predictions2, test$Sat)
 
 
 
-
-
-
 ###### KNN Model Training and Prediction###########################
 
 # Replace these values with the actual values from your KNN evaluation
